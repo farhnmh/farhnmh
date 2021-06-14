@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhnmh
+- 👋 Hi, I’m Farhan Muhammad
 - 👀 I’m interested in Game Developer
 - 🌱 I’m currently learning Programming Skill
 - 💞️ I’m looking to collaborate on Game Development
