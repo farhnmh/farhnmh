@@ -16,6 +16,13 @@ My name is _Aan_. I have development and communication professional skill with a
 - Computer Vision
 
 ### 📫 How to reach me
+<img align="left" href="https://discord.com/users/mooara" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" />
+
 <p align="left"> 
 <a href="https://discord.com/users/mooara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/farhnmh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
