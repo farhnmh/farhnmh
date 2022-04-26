@@ -16,12 +16,18 @@ My name is _Aan_. I have development and communication professional skill with a
 - Computer Vision
 
 ### 😶‍🌫️ Projects that are currently and have been developed
+- [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022-now
 - [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
+- [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
 - [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
 - [Racing Drone](https://github.com/farhnmh/Racing-Drone), 2021
 - [IRUF: The Lost Child](https://github.com/farhnmh/Iruf-The-Lost-Child), 2021
 - [Trash Sorting](https://github.com/farhnmh/Game-Trash-Sorting), 2021
+- [Scale Your Body](), 2021
 - [Leder Efter Trivia](https://github.com/farhnmh/Leder-Efter-Trivia), 2020-2021
+- [Boku: Programming Learning Games](https://gitlab.com/pratamailham206/boku-educational-game-pc-game), 2020-2021
+- [Farmily](), 2020
+- [Scott Emotions](https://gitlab.com/notslimboy/scot-emossions), 2020
 
 ### 🛠️ Languages and tools that I learn
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="padding-right:10px;" />
