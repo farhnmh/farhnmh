@@ -21,7 +21,7 @@ My name is _Aan_. I have development and communication professional skill with a
 - [Racing Drone](https://github.com/farhnmh/Racing-Drone), 2021
 - [IRUF: The Lost Child](https://github.com/farhnmh/Iruf-The-Lost-Child), 2021
 - [Trash Sorting](https://github.com/farhnmh/Game-Trash-Sorting), 2021
-- [Leder Efter Trifia](https://github.com/farhnmh/Leder-Efter-Trivia), 2020-2021
+- [Leder Efter Trivia](https://github.com/farhnmh/Leder-Efter-Trivia), 2020-2021
 
 ### 🛠️ Languages and tools that I learn
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="padding-right:10px;" />
