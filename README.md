@@ -25,10 +25,10 @@ My name is _Aan_. I have development and communication professional skill with a
 </p>
 
 ### 🛠️ Languages and tools that I learn
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
