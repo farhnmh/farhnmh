@@ -25,7 +25,6 @@ My name is _Aan_. I have development and communication professional skill with a
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
 
 ### 📫 How to reach me
 <a href="https://discord.com/users/mooara" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" /></a>
