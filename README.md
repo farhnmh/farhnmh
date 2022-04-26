@@ -17,14 +17,10 @@ My name is _Aan_. I have development and communication professional skill with a
 
 ### 📫 How to reach me
 <a href="https://discord.com/users/mooara" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" /></a>
-
-<p align="left"> 
-<a href="https://discord.com/users/mooara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/farhnmh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/farhaanmuha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/farhaanmuha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/farhaanmuha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+<a href="https://www.github.com/farhnmh" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
+<a href="http://www.instagram.com/farhaanmuha" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/farhaanmuha" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="padding-right:10px;" /></a>
+<a href="https://www.twitter.com/farhaanmuha" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" style="padding-right:10px;" /></a>
 
 ### 🛠️ Languages and tools that I learn
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="padding-right:10px;" />
