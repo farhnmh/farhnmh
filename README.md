@@ -24,6 +24,9 @@ My name is _Aan_. I have development and communication professional skill with a
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+
 ### 📫 How to reach me
 <a href="https://discord.com/users/mooara" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px;" /></a>
 <a href="https://www.github.com/farhnmh" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
