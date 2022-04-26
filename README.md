@@ -11,9 +11,17 @@ My name is _Aan_. I have development and communication professional skill with a
 - **Certification of Game Development Using Swift Programming** that associated with EEPIS, Surabaya, 2020
 - **Awardee and Volunteer** at Saudara Satu Negara, in Singapore-Malaysia-Thailand, 2019
 
-### ❤️‍🔥 What am I interested in
+### ❤️ What am I interested in
 - Game Development (Designer and Programmer)
 - Computer Vision
+
+### 😶‍🌫️ Projects that are currently and have been developed
+- [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
+- [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
+- [Racing Drone](https://github.com/farhnmh/Racing-Drone), 2021
+- [IRUF: The Lost Child](https://github.com/farhnmh/Iruf-The-Lost-Child), 2021
+- [Trash Sorting](https://github.com/farhnmh/Game-Trash-Sorting), 2021
+- [Leder Efter Trifia](https://github.com/farhnmh/Leder-Efter-Trivia), 2020-2021
 
 ### 🛠️ Languages and tools that I learn
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="padding-right:10px;" />
