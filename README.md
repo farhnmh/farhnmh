@@ -16,9 +16,11 @@ My name is _Aan_. I have development and communication professional skill with a
 - Computer Vision
 
 ### 😶‍🌫️ Projects that are currently and have been developed
+1. Under-Development
 - [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022-now
 - [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
 - [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
+2. Development-Complete
 - [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
 - [Racing Drone](https://github.com/farhnmh/Racing-Drone), 2021
 - [IRUF: The Lost Child](https://github.com/farhnmh/Iruf-The-Lost-Child), 2021
