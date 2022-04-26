@@ -33,9 +33,12 @@ My name is _Aan_. I have development and communication professional skill with a
 <a href="https://www.linkedin.com/in/farhaanmuha" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="padding-right:10px;" /></a>
 <a href="https://www.twitter.com/farhaanmuha" target="_blank" rel="noreferrer"><img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" style="padding-right:10px;" /></a>
 
+<br />
+
 ### Badges
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/faniasv"><img src="https://github-readme-stats.vercel.app/api?username=faniasv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="faniasv's GitHub stats" /></a>
+My GitHub Stats
+<br />
+<a href="http://www.github.com/farhnmh"><img src="https://github-readme-stats.vercel.app/api?username=farhnmh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="faniasv's GitHub stats" /></a>
 <a href="http://www.github.com/faniasv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faniasv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/faniasv"><img src="https://activity-graph.herokuapp.com/graph?username=faniasv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/faniasv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faniasv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
