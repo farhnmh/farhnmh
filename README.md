@@ -22,7 +22,9 @@ My name is _Aan_. I have development and communication professional skill with a
 - [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
 2. Development-Complete
 - [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
-- [Racing Drone](https://github.com/farhnmh/Racing-Drone), 2021
+- [Racing Drone With Custom Controller](https://github.com/farhnmh/Racing-Drone), 2021
+- [Boxing Game With Custom Controller](https://github.com/farhnmh/Boxing-Game-With-Custom-Controller), 2021
+- [Rythm Game With Custom Controller](https://github.com/farhnmh/Rhytm-Game-With-Custom-Controller), 2021
 - [IRUF: The Lost Child](https://github.com/farhnmh/Iruf-The-Lost-Child), 2021
 - [Trash Sorting](https://github.com/farhnmh/Game-Trash-Sorting), 2021
 - [Scale Your Body](), 2021
