@@ -17,6 +17,7 @@ My name is _Aan_. I have development and communication professional skill with a
 
 ### 😶‍🌫️ Projects that are currently and have been developed
 1. Under-Development
+- [G-POLIN](https://github.com/farhnmh/G-POLIN), 2022-now
 - [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022-now
 - [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
 - [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
