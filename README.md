@@ -10,7 +10,7 @@ My name is _Aan_. I have development and communication professional skill with a
 - **"Certification of Mobile Based Game Development"** that associated with EEPIS, Surabaya, 2021
 - **"Certification of Game Development Using Swift Programming"** that associated with EEPIS, Surabaya, 2020
 - **"Awardee and Volunteer"** at Saudara Satu Negara, in Singapore-Malaysia-Thailand, 2019
-<br>note: more details on my [LinkedIn](https://www.linkedin.com/in/farhaanmuha/) 💝
+- _note: more details on my [LinkedIn](https://www.linkedin.com/in/farhaanmuha/) 💝_
 
 ### ❤️ What am I interested in
 - Game Designer
