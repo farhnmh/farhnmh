@@ -5,6 +5,7 @@ My name is _Aan_. I have development and communication professional skill with a
 
 ### 🧠 What am I doing and have I done
 - **"Final Year Student"** of Game Technology EEPIS, 2018-now
+- **"Unity Developer"** at Pateba Studio, Surabaya, 2021-now
 - **"Production Team"** at Intive Studio, Surabaya, 2021-now
 - **"Game Designer Intern"** at Nightspade Studio, Bandung, 2021
 - **"Certification of Mobile Based Game Development"** that associated with EEPIS, Surabaya, 2021
