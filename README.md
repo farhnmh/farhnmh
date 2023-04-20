@@ -4,10 +4,12 @@
 My name is _Aan_. I have development and communication professional skill with a Bachelor of Technology focused in Game Technology from _Electronic Engineering Polytechnic Institute of Surabaya_. I am an experienced developer skilled in Python, C#, C++, Unity Game Development, Computer Vision and its frameworks. Not only that, I do a lot of the activities are outside of my education stream. I joined several organizations engaged in the humanitarian field that helped me develop my soft skills.
 
 ### 🧠 What am I doing and have I done
-- **"Final Year Student"** of Game Technology EEPIS, 2018-now
+- **"Alumni"** of Game Technology EEPIS
 - **"Unity Developer"** at Pateba Studio, Surabaya, 2021-now
-- **"Production Team"** at Intive Studio, Surabaya, 2021-now
+- **"Unity Developer"** at metaNesia - Telkom Indonesia, Surabaya, 2022-now
+- **"Production Team"** at Intive Studio, Surabaya, 2021-2022
 - **"Game Designer Intern"** at Nightspade Studio, Bandung, 2021
+- **"Certification of OOP Programming"** that associated with BNSP, Surabaya, 2022
 - **"Certification of Mobile Based Game Development"** that associated with EEPIS, Surabaya, 2021
 - **"Certification of Game Development Using Swift Programming"** that associated with EEPIS, Surabaya, 2020
 - **"Awardee and Volunteer"** at Saudara Satu Negara, in Singapore-Malaysia-Thailand, 2019
@@ -18,13 +20,11 @@ My name is _Aan_. I have development and communication professional skill with a
 - Game Programmer
 - Computer Vision
 
-### 😶‍🌫️ Projects that are currently and have been developed
-1. Under-Development
-- [G-POLIN](https://github.com/farhnmh/G-POLIN), 2022-now
+### 😶‍🌫️ Projects that have been developed
+- [G-POLIN](https://github.com/farhnmh/G-POLIN), 2022
 - [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022-now
 - [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
 - [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
-2. Development-Complete
 - [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
 - [Racing Drone With Custom Controller](https://github.com/farhnmh/Racing-Drone), 2021
 - [Boxing Game With Custom Controller](https://github.com/farhnmh/Boxing-Game-With-Custom-Controller), 2021
