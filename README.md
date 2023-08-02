@@ -7,7 +7,7 @@ My name is _Aan_. I have development and communication professional skill with a
 - **"Alumni"** of Game Technology EEPIS
 - **"Unity Developer"** at Pateba Studio, Surabaya, 2021-now
 - **"Unity Developer"** at metaNesia - Telkom Indonesia, Surabaya, 2022-now
-- **"Production Team"** at Intive Studio, Surabaya, 2021-2022
+- **"Production Team"** at Intive Studio, Surabaya, 2021-now
 - **"Game Designer Intern"** at Nightspade Studio, Bandung, 2021
 - **"Certification of OOP Programming"** that associated with BNSP, Surabaya, 2022
 - **"Certification of Mobile Based Game Development"** that associated with EEPIS, Surabaya, 2021
