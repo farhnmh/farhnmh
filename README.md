@@ -21,10 +21,14 @@ My name is _Aan_. I have development and communication professional skill with a
 - Computer Vision
 
 ### 😶‍🌫️ Projects that have been developed
+- [VLIP Bank Indonesia](https://github.com/Pateba-Studio/tam-isometric-game), 2023
+- [TAM V2 Assesment Game](https://github.com/Pateba-Studio/tam-isometric-game), 2023
+- [TAM V1 Assesment Game](https://gitlab.com/patebastudio/toyota-project), 2022
+- [ARDA](https://github.com/farhnmh/G-POLIN), 2022
 - [G-POLIN](https://github.com/farhnmh/G-POLIN), 2022
-- [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022-now
-- [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021-now
-- [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021-now
+- [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022
+- [NumberPedia](https://github.com/farhnmh/NumberPedia), 2021
+- [VR Sejarah Candi Belahan](https://gitlab.com/teampateba/vr-sejarah), 2021
 - [AR Plane Parts](https://github.com/farhnmh/AR-Plane-Part), 2021
 - [Racing Drone With Custom Controller](https://github.com/farhnmh/Racing-Drone), 2021
 - [Boxing Game With Custom Controller](https://github.com/farhnmh/Boxing-Game-With-Custom-Controller), 2021
