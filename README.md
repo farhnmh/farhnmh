@@ -1,17 +1,18 @@
 # 👋 Holla, Fellas!
 
 ### 😎 About Me
-My name is _Aan_. I have development and communication professional skill with a Bachelor of Technology focused in Game Technology from _Electronic Engineering Polytechnic Institute of Surabaya_. I am an experienced developer skilled in Python, C#, C++, Unity Game Development, Computer Vision and its frameworks. Not only that, I do a lot of the activities are outside of my education stream. I joined several organizations engaged in the humanitarian field that helped me develop my soft skills.
+My name is _Aan_. I have development and communication professional skills with a Bachelor of Technology focused in Game Technology from _Electronic Engineering Polytechnic Institute of Surabaya_. I am an experienced developer skilled in Python, C#, C++, Unity Game Development, Computer Vision and its frameworks. Not only that, I do a lot of the activities outside of my education stream. I joined several organizations engaged in the humanitarian field that helped me develop my soft skills.
 
 ### 🧠 What am I doing and have I done
 - **"Alumni"** of Game Technology EEPIS
+- **"Unity Developer"** at Molca Teknologi Nusantara, Surabaya, 2024-now
 - **"Unity Developer"** at Pateba Studio, Surabaya, 2021-now
-- **"Unity Developer"** at metaNesia - Telkom Indonesia, Surabaya, 2022-now
 - **"Production Team"** at Intive Studio, Surabaya, 2021-now
+- **"Unity Developer"** at metaNesia - Telkom Indonesia, Surabaya, 2022-2024
 - **"Game Designer Intern"** at Nightspade Studio, Bandung, 2021
-- **"Certification of OOP Programming"** that associated with BNSP, Surabaya, 2022
-- **"Certification of Mobile Based Game Development"** that associated with EEPIS, Surabaya, 2021
-- **"Certification of Game Development Using Swift Programming"** that associated with EEPIS, Surabaya, 2020
+- **"Certification of OOP Programming"** that is associated with BNSP, Surabaya, 2022
+- **"Certification of Mobile Based Game Development"** that is associated with EEPIS, Surabaya, 2021
+- **"Certification of Game Development Using Swift Programming"** associated with EEPIS, Surabaya, 2020
 - **"Awardee and Volunteer"** at Saudara Satu Negara, in Singapore-Malaysia-Thailand, 2019
 - _note: more details on my [LinkedIn](https://www.linkedin.com/in/farhaanmuha/) 💝_
 
@@ -22,8 +23,8 @@ My name is _Aan_. I have development and communication professional skill with a
 
 ### 😶‍🌫️ Projects that have been developed
 - [VLIP Bank Indonesia](https://github.com/Pateba-Studio/tam-isometric-game), 2023
-- [TAM V2 Assesment Game](https://github.com/Pateba-Studio/tam-isometric-game), 2023
-- [TAM V1 Assesment Game](https://gitlab.com/patebastudio/toyota-project), 2022
+- [TAM V2 Assessment Game](https://github.com/Pateba-Studio/tam-isometric-game), 2023
+- [TAM V1 Assessment Game](https://gitlab.com/patebastudio/toyota-project), 2022
 - [ARDA](https://github.com/farhnmh/G-POLIN), 2022
 - [G-POLIN](https://github.com/farhnmh/G-POLIN), 2022
 - [Virtual Mall](https://github.com/farhnmh/Virtual-Mall), 2022
