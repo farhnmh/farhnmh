@@ -4,8 +4,8 @@
 My name is _Aan_. I have development and communication professional skills with a Bachelor of Technology focused in Game Technology from _Electronic Engineering Polytechnic Institute of Surabaya_. I am an experienced developer skilled in Python, C#, C++, Unity Game Development, Computer Vision and its frameworks. Not only that, I do a lot of the activities outside of my education stream. I joined several organizations engaged in the humanitarian field that helped me develop my soft skills.
 
 ### 🧠 What am I doing and have I done
-- **"Master Student"** of Startup Technologi ITS, 2024-2026
-- **"Alumni"** of Game Technology EEPIS, 2018-2022
+- **"Master's Student"** of Startup Technology ITS, 2024-now
+- **"Bachelor's Alumni"** of Game Technology EEPIS, 2018-2022
 - **"Unity Developer"** at Molca Teknologi Nusantara, Surabaya, 2024-now
 - **"Unity Developer"** at Pateba Studio, Surabaya, 2021-now
 - **"Production Team"** at Intive Studio, Surabaya, 2021-now
