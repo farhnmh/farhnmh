@@ -13,10 +13,10 @@ const poppins = Poppins({
   display: 'swap',
 });
 
-const title = 'Farhan Muhammad | Full Stack Developer From Ahmedabad, India.';
+const title = 'Farhan Muhammad | Immersive Technologist From Surabaya, India.';
 const description =
-  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ahmedabad, India.';
-const url = 'https://sagarshah.dev';
+  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Surabaya, Indonesia.';
+const url = 'https://farhanmuhammad.dev';
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
