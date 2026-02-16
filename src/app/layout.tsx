@@ -23,10 +23,13 @@ export const metadata: Metadata = {
   title,
   description,
   keywords: [
-    'Frontend Developer',
-    'Full Stack Developer',
-    'React Developer',
-    'Next.js Developer',
+    'Unity Developer',
+    'Python Developer',
+    'Immersive Technologist',
+    'Unreal Engine Developer',
+    'AR Developer',
+    'VR Developer',
+    'XR Developer',
   ],
   creator: 'Farhan Muhammad',
   themeColor: [
