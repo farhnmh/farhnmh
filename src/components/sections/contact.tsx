@@ -14,7 +14,6 @@ let whatsappPhone = '6285216000342'; // WhatsApp format with country code
 const emailSubject = 'Hello Farhan';
 const emailBody = 'Hi Farhan,%0D%0A%0D%0AI would like to discuss...%0D%0A%0D%0ABest regards';
 const whatsappMessage = 'Hi Farhan,%0AI would like to discuss...';
-
 const ContactSection = () => {
 
   return (
@@ -24,7 +23,7 @@ const ContactSection = () => {
           <Tag label="Get in touch" />
         </div>
         <Typography variant="subtitle" className="max-w-2xl text-center text-sm md:text-base px-4">
-          What's next? Feel free to reach out to me if you are looking for a
+          What&apos;s next? Feel free to reach out to me if you are looking for a
           developer, have a query, or simply want to connect.
         </Typography>
       </div>
