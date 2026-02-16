@@ -11,6 +11,10 @@ let email = 'farhnmh@gmail.com';
 let phone = '085216000342';
 let whatsappPhone = '6285216000342'; // WhatsApp format with country code
 
+const emailSubject = 'Hello Farhan';
+const emailBody = 'Hi Farhan,%0D%0A%0D%0AI would like to discuss...%0D%0A%0D%0ABest regards';
+const whatsappMessage = 'Hi Farhan,%0AI would like to discuss...';
+
 const ContactSection = () => {
 
   return (
@@ -37,7 +41,7 @@ const ContactSection = () => {
               Email
             </Typography>
             <button
-              onClick={() => window.location.href = `mailto:${email}?subject=Hello Farhan&body=Hi Farhan,%0D%0A%0D%0AI would like to discuss...%0D%0A%0D%0ABest regards`}
+              onClick={() => window.location.href = `mailto:${email}?subject=${emailSubject}&body=${emailBody}`}
               className="w-full px-3 md:px-4 py-2 md:py-2.5 rounded-lg bg-blue-600 dark:bg-blue-500 text-white font-medium text-sm md:text-base transition-all hover:bg-blue-700 dark:hover:bg-blue-600 active:scale-95"
             >
               Send Email
@@ -53,7 +57,7 @@ const ContactSection = () => {
               WhatsApp
             </Typography>
             <button
-              onClick={() => window.location.href = `https://wa.me/${whatsappPhone}?text=Hi Farhan,%0AI would like to discuss...`}
+              onClick={() => window.location.href = `https://wa.me/${whatsappPhone}?text=${whatsappMessage}`}
               className="w-full px-3 md:px-4 py-2 md:py-2.5 rounded-lg bg-green-600 dark:bg-green-500 text-white font-medium text-sm md:text-base transition-all hover:bg-green-700 dark:hover:bg-green-600 active:scale-95"
             >
               Chat on WhatsApp
