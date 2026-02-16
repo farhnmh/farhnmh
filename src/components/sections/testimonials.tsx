@@ -32,16 +32,16 @@ const TestimonialsSection = () => {
 
   return (
     <Container id="testimonials" className="bg-gray-50">
-      <div className="flex flex-col items-center gap-4">
+      <div className="flex flex-col items-center gap-4 px-4 md:px-0">
         <div className="self-center">
           <Tag label="Testimonials" />
         </div>
-        <Typography variant="subtitle" className="max-w-xl text-center">
+        <Typography variant="subtitle" className="max-w-xl text-center text-sm md:text-base">
           Nice things people have said about me:
         </Typography>
       </div>
 
-      <div className="relative mx-auto max-w-4xl">
+      <div className="relative mx-auto w-full max-w-4xl px-4 md:px-0">
         {/* Carousel Content */}
         <div className="overflow-hidden">
           <div
@@ -49,7 +49,7 @@ const TestimonialsSection = () => {
             style={{ transform: `translateX(-${currentIndex * 100}%)` }}
           >
             {TESTIMONIALS?.map((testimonial, index) => (
-              <div key={index} className="w-full flex-shrink-0">
+              <div key={index} className="w-full flex-shrink-0 px-2 md:px-0">
                 <TestimonialDetails {...testimonial} />
               </div>
             ))}
@@ -57,13 +57,13 @@ const TestimonialsSection = () => {
         </div>
 
         {/* Navigation Buttons */}
-        <div className="mt-6 flex items-center justify-center gap-4">
+        <div className="mt-6 flex items-center justify-center gap-2 md:gap-4">
           <IconButton onClick={goToPrevious} aria-label="Previous testimonial">
             <ChevronLeft />
           </IconButton>
 
           {/* Dots Indicator */}
-          <div className="flex gap-2">
+          <div className="flex gap-1.5 md:gap-2">
             {TESTIMONIALS.map((_, index) => (
               <button
                 key={index}
