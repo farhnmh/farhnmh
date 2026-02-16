@@ -7,15 +7,15 @@ import Tag from '@/components/data-display/tag';
 import Typography from '@/components/general/typography';
 import Container from '@/components/layout/container';
 
-let email = 'farhnmh@gmail.com';
-let phone = '085216000342';
-let whatsappPhone = '6285216000342'; // WhatsApp format with country code
+const email = 'farhnmh@gmail.com';
+const phone = '085216000342';
+const whatsappPhone = '6285216000342';
 
 const emailSubject = 'Hello Farhan';
 const emailBody = 'Hi Farhan,%0D%0A%0D%0AI would like to discuss...%0D%0A%0D%0ABest regards';
 const whatsappMessage = 'Hi Farhan,%0AI would like to discuss...';
-const ContactSection = () => {
 
+const ContactSection = () => {
   return (
     <Container id="contact">
       <div className="flex flex-col items-center gap-4 mb-8 md:mb-12">
@@ -23,8 +23,7 @@ const ContactSection = () => {
           <Tag label="Get in touch" />
         </div>
         <Typography variant="subtitle" className="max-w-2xl text-center text-sm md:text-base px-4">
-          What&apos;s next? Feel free to reach out to me if you are looking for a
-          developer, have a query, or simply want to connect.
+          {"What's next? Feel free to reach out to me if you are looking for a developer, have a query, or simply want to connect."}
         </Typography>
       </div>
 
